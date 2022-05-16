@@ -1,0 +1,48 @@
+body {
+    background-image: url("https://media.istockphoto.com/vectors/numbers-pattern-vector-id1130715037?k=20&m=1130715037&s=612x612&w=0&h=VIlvp493OBvzc6JfHgz_dCOthwHfH1xB_1JsD52WoM0=");
+}
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-family: 'Baloo 2', cursive;
+}
+
+input {
+    width: 15em;
+    height: 2em;
+}
+
+#button1, #button2 {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#button2 {
+    background-color: red;
+    color: black;
+}
+
+#btnSpot {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+#container {
+    text-align: center;
+    background-color: #f8f8ff;
+    height: 30em;
+    margin:auto;
+    max-width: fit-content;
+    border: solid black 5px;
+    border-radius: 20px;
+    -webkit-box-shadow: -6px 8px 15px 2px #EB1A3B; 
+    box-shadow: -6px 8px 15px 2px #EB1A3B;
+    padding:20px;
+}
+
+#spacer {
+    height: 100px;
+}
